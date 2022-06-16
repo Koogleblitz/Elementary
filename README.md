@@ -1,5 +1,10 @@
 # Elementary
 An exercise in using design patterns. A small ASCII-based turn-based pokemon-type game (sans deep rpg elements) run entirely in the terminal 
+Run Online: https://replit.com/@Koogleblitz/Elementary
+
+
+
+
 ![1](https://user-images.githubusercontent.com/28118510/174000426-9f9eb8a5-9ef1-4767-a980-432a99433ece.jpg)
 ![2](https://user-images.githubusercontent.com/28118510/174000431-b53dcb51-ea72-47b3-ad9b-a1e6c10e69c8.jpg)
 ![3](https://user-images.githubusercontent.com/28118510/174000433-61637b34-36bd-424c-bf16-36a8b4f55616.jpg)
